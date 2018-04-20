@@ -491,10 +491,10 @@ class LINE:
 
       prof = self.getProfile()
 
-      print("==============[ TGB SelfBot High ]==============")
-      print("           Thanks for TGB, TBK and my friend")
-      print("====================================================")
-      print("MID : " + prof.mid)
-      print("NAME : " + prof.displayName)
-      print("authToken :  " + self.authToken)
+      print("═════════[PRANKBOTS CREATOR]════════")
+      print("════════[ACIL/RIDWAN ADIPUTRA]═══════")
+      print("JANGAN LUPA SUBCRABE CHANNENYA YA SOBAT")
+      print("MIDNA: " + prof.mid)
+      print("NGARANA: " + prof.displayName)
+      print("TOKETNA:  " + self.authToken)
       #print("cert : " + self.cert if self.cert is not None else "")
