@@ -1,7 +1,8 @@
-# DONE UPDATE 14-MART_2018
-
-# 1 selfbot 10 asist
-V2.1 editor_::
+# PROTECT SELFBOT
+NB\nSB DAN OWNER BISA MENAMBAHKAN ADMIN\nADMIN TIDAK BISA MENAMBAHKAN ADMIN LAGI\nMID SELFBOT SAMA OWNER JANGAN SAMPE KE TUKER
+#### jangan lupa hapus bagian curve adanya di import PRANKBOT libapi(.curve).ttyps
+# selfbot+owner+admin
+V3 version
 Prankbots
 # PRANKBOTS
 ![Prankbots](prankbots.png)
